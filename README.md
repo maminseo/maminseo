@@ -31,4 +31,12 @@
 
 ### 📈 GitHub 통계
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maminseo&show_icons=true&theme=d_)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maminseo&show_icons=true&theme=default&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maminseo&layout=compact&theme=default&hide_border=true)
+
+---
+
+### 📫 연락처
+- 이메일: mamin1129@naver.com 
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 포트폴리오 사이트: [maminseo.github.io](https://maminseo.github.io)
